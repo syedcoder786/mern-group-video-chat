@@ -1,0 +1,11 @@
+.videoclass {
+  height: 50%;
+  width: 50%;
+}
+
+@media (max-width: 767px) {
+  .videoclass {
+    width:100%;
+    height: 60%;
+  }
+}
